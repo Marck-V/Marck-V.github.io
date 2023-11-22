@@ -4,7 +4,8 @@
 Bachelor of Science, Computer Science
 
 ## Projects
-3rd Person Action Game (Unreal Engine 5)
+- 3rd Person Action Game (Unreal Engine 5)
 
-Custom C++ Engine
+- Custom C++ Engine
   - ECS C++ Engine
+  - Creating a custom level editor using ImGui.
