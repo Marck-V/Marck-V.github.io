@@ -8,10 +8,12 @@ This game was created as part of [Tom Looman's](https://www.tomlooman.com/) Unre
 I developed a custom 2D game engine in C++ using SDL2, featuring an Entity-Component System architecture. The engine supports user input, tilemap rendering, and collision detection. I integrated Lua scripting with Sol for rapid level design and iteration, and implemented an ImGui-powered debug menu for real-time entity spawning and system testing.
 
 - ### Blueprint FPS Game
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/otHC3OMmbFc"
-  title="YouTube video player" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/otHC3OMmbFc"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 My goal when creating this game was to gain an understanding of how the blueprint system worked in unreal. Although unreal lets you use blueprint or C++ the reccommended way of using the engine is by blending both together. At first I was only using C++ but I knew that I needed to understand more about blueprint. This is a simple FPS prototype that was created entirely in blueprints. There is animations, audio, and enemy AI, ammo/health pickups, all implemented. The point of the game is to eliminate all the drones in the streets before time runs out.
