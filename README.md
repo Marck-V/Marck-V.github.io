@@ -5,9 +5,7 @@ This game was created as part of [Tom Looman's](https://www.tomlooman.com/) Unre
 
 - ### Custom C++ Engine
 ![alt text](images/Screenshot 2025-05-03 142344.png)
-  - ECS C++ Engine
-  - Creating a custom level editor using ImGui.
-  - Implemented a simplistic animation system and collision system.
+I developed a custom 2D game engine in C++ using SDL2, featuring an Entity-Component System architecture. The engine supports user input, tilemap rendering, and collision detection. I integrated Lua scripting with Sol for rapid level design and iteration, and implemented an ImGui-powered debug menu for real-time entity spawning and system testing.
 
 - ### Blueprint FPS Game
 <iframe width="560" height="315"
