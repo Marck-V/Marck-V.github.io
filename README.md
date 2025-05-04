@@ -9,7 +9,7 @@ This game was created as part of [Tom Looman's](https://www.tomlooman.com/) Unre
   - Creating a custom level editor using ImGui.
   - Implemented a simplistic animation system and collision system.
 
-### Blueprint FPS Game
+- ### Blueprint FPS Game
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/otHC3OMmbFc"
   title="YouTube video player" frameborder="0"
